@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kbeanie:multipicker:1.6@aar">
+    <CLASSES>
+      <root url="file://F:/USER/.gradle/caches/transforms-1/files-1.1/multipicker-1.6.aar/dcc362e3539c3f56e11f86f4c3fe3d4d/AndroidManifest.xml" />
+      <root url="jar://F:/USER/.gradle/caches/transforms-1/files-1.1/multipicker-1.6.aar/dcc362e3539c3f56e11f86f4c3fe3d4d/jars/classes.jar!/" />
+      <root url="file://F:/USER/.gradle/caches/transforms-1/files-1.1/multipicker-1.6.aar/dcc362e3539c3f56e11f86f4c3fe3d4d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

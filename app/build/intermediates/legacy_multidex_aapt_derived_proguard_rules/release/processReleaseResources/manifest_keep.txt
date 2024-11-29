@@ -1,0 +1,2 @@
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:32
+-keep class com.apsapps.indimessenger.BaseApplication { <init>(...); }

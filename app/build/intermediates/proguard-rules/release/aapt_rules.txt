@@ -1,0 +1,327 @@
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:232
+-keep class android.arch.lifecycle.ProcessLifecycleOwnerInitializer { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:32
+-keep class com.apsapps.indimessenger.BaseApplication { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:153
+-keep class com.apsapps.indimessenger.activities.CallListActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:105
+-keep class com.apsapps.indimessenger.activities.CallScreenActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:49
+-keep class com.apsapps.indimessenger.activities.ChatActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:96
+-keep class com.apsapps.indimessenger.activities.ChatDetailActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:131
+-keep class com.apsapps.indimessenger.activities.ChooseSignInActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:135
+-keep class com.apsapps.indimessenger.activities.ContactActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:92
+-keep class com.apsapps.indimessenger.activities.ContactViewerActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:60
+-keep class com.apsapps.indimessenger.activities.ImageViewerActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:108
+-keep class com.apsapps.indimessenger.activities.IncomingCallScreenActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:44
+-keep class com.apsapps.indimessenger.activities.MainActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:139
+-keep class com.apsapps.indimessenger.activities.PrivacyPolicyActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:100
+-keep class com.apsapps.indimessenger.activities.SignInActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:111
+-keep class com.apsapps.indimessenger.activities.SplashActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:148
+-keep class com.apsapps.indimessenger.activities.StatusStoriesActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:43
+-keep class com.apsapps.indimessenger.privacyActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:71
+-keep class com.apsapps.indimessenger.receivers.ConnectivityReceiver { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:123
+-keep class com.apsapps.indimessenger.services.FetchMyUsersService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:62
+-keep class com.apsapps.indimessenger.services.FirebaseChatService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:65
+-keep class com.apsapps.indimessenger.services.MyFirebaseMessagingService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:126
+-keep class com.apsapps.indimessenger.services.SinchService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:82
+-keep class com.apsapps.indimessenger.utils.MyFileProvider { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:227
+-keep class com.crashlytics.android.CrashlyticsInitProvider { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:209
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:200
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:283
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:243
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:257
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:238
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:253
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:167
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:175
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:263
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:275
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:192
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:288
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:164
+-keep class com.karumi.dexter.DexterActivity { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:214
+-keep class com.kbeanie.multipicker.utils.AMPFileProvider { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:158
+-keep class com.sinch.android.rtc.internal.client.fcm.InstanceIDTokenService { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:223
+-keep class com.squareup.picasso.PicassoProvider { <init>(...); }
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\content_choose_sign_in.xml:2
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_login.xml:8
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea9d31f926fc0b6cfc3b4964dcbda9dd\res\layout\design_bottom_navigation_item.xml:27
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea9d31f926fc0b6cfc3b4964dcbda9dd\res\layout\design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea9d31f926fc0b6cfc3b4964dcbda9dd\res\layout\design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_user_detail.xml:9
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_choose_sign_in.xml:9
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea9d31f926fc0b6cfc3b4964dcbda9dd\res\layout\design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_user_detail.xml:14
+-keep class android.support.design.widget.CollapsingToolbarLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea9d31f926fc0b6cfc3b4964dcbda9dd\res\layout\design_bottom_sheet_dialog.xml:26
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_user_detail.xml:2
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_choose_sign_in.xml:2
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\content_main.xml:147
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea9d31f926fc0b6cfc3b4964dcbda9dd\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea9d31f926fc0b6cfc3b4964dcbda9dd\res\layout\design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea9d31f926fc0b6cfc3b4964dcbda9dd\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ea9d31f926fc0b6cfc3b4964dcbda9dd\res\layout\design_layout_snackbar_include.xml:18
+-keep class android.support.design.widget.SnackbarContentLayout { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_user_media.xml:9
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\content_main.xml:127
+-keep class android.support.design.widget.TabLayout { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_user_media.xml:21
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\emoji-0.5.1.aar\4091436167f6486eaf0b39cac8a1ef51\res\layout\emoji_view.xml:17
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_user_sub_media.xml:1
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_user_detail.xml:99
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_call_list.xml:7
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_login.xml:2
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_status.xml:150
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_main_recycler.xml:8
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_main.xml:44
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_contact_list.xml:85
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_call_list.xml:69
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_screen_toolbar.xml:43
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_menu_user.xml:78
+-keep class android.support.v7.widget.AppCompatRadioButton { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_text.xml:144
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_video.xml:174
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_recording.xml:175
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_location.xml:144
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_image.xml:151
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_group_select_members.xml:9
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_group_new.xml:18
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_confirmation.xml:2
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\emoji-0.5.1.aar\4091436167f6486eaf0b39cac8a1ef51\res\layout\emoji_skin_popup.xml:7
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_screen_simple.xml:17
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_user_sub_media.xml:10
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_user_select.xml:9
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_user_detail.xml:29
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_main_recycler.xml:51
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_group_select_members.xml:51
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_group_new.xml:172
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\dialog_v_card_detail.xml:52
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\adapter_item_status.xml:149
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_main.xml:51
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_contact_list.xml:92
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_chats.xml:145
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_call_list.xml:76
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\content_main.xml:102
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_contact_list.xml:53
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_call_list.xml:41
+-keep class android.support.v7.widget.SearchView { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_user_detail.xml:179
+-keep class android.support.v7.widget.SwitchCompat { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout-v26\abc_screen_toolbar.xml:37
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_user_detail.xml:116
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_privacy.xml:10
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_contact_list.xml:9
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_choose_sign_in.xml:14
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_chats.xml:7
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_call_list.xml:11
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_alert_dialog_title_material.xml:56
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\692c89c864b5fd38dbbc333c4e05b9ad\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\customtabs-28.0.0.aar\1f0a6505cb3f6b88fcc3f91aa13698b1\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_user_detail.xml:30
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_status_stories.xml:92
+-keep class com.apsapps.indimessenger.status.CircleView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_status_stories.xml:72
+-keep class com.apsapps.indimessenger.status.StoryStatusView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_status.xml:41
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\adapter_item_status.xml:28
+-keep class com.apsapps.indimessenger.utils.CircularStatusView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_status.xml:160
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_main_recycler.xml:18
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_group_select.xml:20
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_call_list.xml:31
+-keep class com.apsapps.indimessenger.views.MyRecyclerView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\content_main.xml:138
+-keep class com.apsapps.indimessenger.views.SwipeControlViewPager { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_splash.xml:38
+-keep class com.daasuu.ahp.AnimateHorizontalProgressBar { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_typing.xml:2
+-keep class com.eyalbira.loadingdots.LoadingDots { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_image_viewer.xml:5
+-keep class com.github.chrisbanes.photoview.PhotoView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_login.xml:107
+-keep class com.google.android.gms.common.SignInButton { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_main.xml:2
+-keep class com.mxn.soul.flowingdrawer_core.FlowingDrawer { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_main.xml:19
+-keep class com.mxn.soul.flowingdrawer_core.FlowingMenuLayout { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_sign_in_1.xml:48
+-keep class com.toptoche.searchablespinnerlibrary.SearchableSpinner { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_status_stories.xml:169
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_chats.xml:212
+-keep class com.vanniktech.emoji.EmojiEditText { <init>(...); }
+
+# Referenced at F:\USER\.gradle\caches\transforms-1\files-1.1\emoji-0.5.1.aar\4091436167f6486eaf0b39cac8a1ef51\res\layout\emoji_item.xml:2
+-keep class com.vanniktech.emoji.EmojiImageView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_text.xml:90
+-keep class com.vanniktech.emoji.EmojiTextView { <init>(...); }
+
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_text.xml:108
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_video.xml:139
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_recording.xml:140
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_location.xml:109
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_image.xml:116
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_document.xml:144
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_contact.xml:117
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_message_attachment_audio.xml:140
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_menu_user.xml:9
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\item_contact_user.xml:46
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_status.xml:34
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_options.xml:82
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\fragment_group_new.xml:72
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\dialog_v_card_detail.xml:8
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\content_main.xml:56
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\adapter_list_item_log_call.xml:74
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\adapter_item_user.xml:56
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\adapter_item_status.xml:20
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\adapter_item_log_call.xml:98
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_chats.xml:124
+# Referenced at F:\IndiMessenger 2020\IndiMessenger\app\src\main\res\layout\activity_call_screen.xml:32
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+

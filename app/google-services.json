@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051889925114",
+    "firebase_url": "https://indimessenger.firebaseio.com",
+    "project_id": "indimessenger",
+    "storage_bucket": "indimessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051889925114:android:fc2e6642cf2ae3100a8243",
+        "android_client_info": {
+          "package_name": "com.apsapps.indimessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051889925114-lrgn0ab1ecmfrgal61kpsfj2f865v3ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apsapps.indimessenger",
+            "certificate_hash": "73ee41214c43051e3df4d09c6f8cf450a7c9f6b7"
+          }
+        },
+        {
+          "client_id": "1051889925114-3ftirvavcn1nkrrate8bqpsa4k5f8766.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBur_40IRzowqBcGuSUQrfazKqR0p45tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051889925114-3ftirvavcn1nkrrate8bqpsa4k5f8766.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

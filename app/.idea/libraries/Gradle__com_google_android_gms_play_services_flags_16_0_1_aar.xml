@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-flags:16.0.1@aar">
+    <CLASSES>
+      <root url="file://F:/USER/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/d6eec55cedac5dc9f9a57b269199e3eb/AndroidManifest.xml" />
+      <root url="jar://F:/USER/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/d6eec55cedac5dc9f9a57b269199e3eb/jars/classes.jar!/" />
+      <root url="file://F:/USER/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/d6eec55cedac5dc9f9a57b269199e3eb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

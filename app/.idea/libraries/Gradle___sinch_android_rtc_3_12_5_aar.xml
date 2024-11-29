@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :sinch-android-rtc:3.12.5@aar">
+    <CLASSES>
+      <root url="file://F:/USER/.gradle/caches/transforms-1/files-1.1/sinch-android-rtc-3.12.5.aar/0469f28664bdd521e46c06ee2effeb8c/AndroidManifest.xml" />
+      <root url="jar://F:/USER/.gradle/caches/transforms-1/files-1.1/sinch-android-rtc-3.12.5.aar/0469f28664bdd521e46c06ee2effeb8c/jars/classes.jar!/" />
+      <root url="file://F:/USER/.gradle/caches/transforms-1/files-1.1/sinch-android-rtc-3.12.5.aar/0469f28664bdd521e46c06ee2effeb8c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

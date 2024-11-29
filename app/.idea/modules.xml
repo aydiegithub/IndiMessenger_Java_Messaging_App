@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1171541065/IndiMessenger.iml" filepath="$PROJECT_DIR$/.idea/modules/1171541065/IndiMessenger.iml" group="IndiMessenger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="IndiMessenger/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2014361819/statusstories.iml" filepath="$PROJECT_DIR$/.idea/modules/2014361819/statusstories.iml" group="IndiMessenger/statusstories" />
+    </modules>
+  </component>
+</project>

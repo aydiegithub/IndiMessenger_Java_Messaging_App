@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth:16.1.0@aar">
+    <CLASSES>
+      <root url="file://F:/USER/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/36ee5037348ea45f2fb729a2600a13cb/AndroidManifest.xml" />
+      <root url="jar://F:/USER/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/36ee5037348ea45f2fb729a2600a13cb/jars/classes.jar!/" />
+      <root url="file://F:/USER/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/36ee5037348ea45f2fb729a2600a13cb/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/USER/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/16.1.0/135538816aedddb91f99e612fb4693e93362c1e/firebase-auth-16.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
